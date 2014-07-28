@@ -1,0 +1,32 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "flat-ui": {},
+      "skrollr-meteor": {},
+      "iron-router": {}
+    },
+    "packages": {
+      "flat-ui": {
+        "git": "https://github.com/ravshanoff/meteor-flat-ui.git",
+        "tag": "v0.1.1",
+        "commit": "22406cdcd00de01e984912d04e316feecf3a2285"
+      },
+      "skrollr-meteor": {
+        "git": "https://github.com/Linskeyd/skrollr-meteor.git",
+        "tag": "v0.1.1",
+        "commit": "c931e769f8d124a5e716523e6bfd40e2e239c1c9"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.7.1",
+        "commit": "d1ffb3f06ea4c112132b030f2eb1a70b81675ecb"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.4",
+        "commit": "b40e9b0612329288d75cf52ad14a7da64bb8618f"
+      }
+    }
+  }
+}

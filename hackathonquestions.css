@@ -1,0 +1,12 @@
+/* CSS declarations go here */
+/*body { padding-top: 70px; }*/
+.navbar-default {
+	background-color: #34495E;
+}
+.navbar-default .nav .active a, .navbar-default .nav .active a:hover, .navbar-default .nav .active a:focus {
+	background-color: #2C3E50;
+}
+h1 { padding-top: 60px; }
+body {
+  position: relative;
+}

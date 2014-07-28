@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "flat-ui": {},
+    "skrollr-meteor": {},
+    "iron-router": {}
+  }
+}
